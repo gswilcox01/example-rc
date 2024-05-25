@@ -3,7 +3,7 @@
 This is the rc (REST CLI) example collection in a git repo.  
 To install & setup the rc CLI tool, see: https://github.com/gswilcox01/rc3
 
-## Download and import this rc collection
+## Download and import this collection
 Once you have the rc CLI tool setup on your machine.  
 Follow the example below to clone & import this collection:
 ```
